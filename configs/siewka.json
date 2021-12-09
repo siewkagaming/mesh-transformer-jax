@@ -22,7 +22,7 @@
   "tpu_size": 8,
 
   "bucket": "siewka_ai",
-  "model_dir": "mesh_jax_pile_siewka_ai_test
+  "model_dir": "mesh_siewka_test",
   "train_set": "pile.train.index",
   "val_set": {
     "pile": "pile.val.index",
